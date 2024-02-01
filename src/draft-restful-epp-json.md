@@ -33,6 +33,16 @@ organization = "SIDN Labs"
   [author.address]
   email = "marco.davids@sidn.nl"
   uri = "https://sidn.nl/"
+
+[[author]]
+initials="P."
+surname="Kowalik"
+fullname="Pawel Kowalik"
+abbrev = ""
+organization = "DENIC"
+  [author.address]
+  email = "kowalik@denic.de"
+  uri = "https://denic.de/"
 %%%
 
 .# Abstract
